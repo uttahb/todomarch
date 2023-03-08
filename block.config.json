@@ -1,0 +1,8 @@
+{
+  "name": "todomarch",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/uttahb/todomarch",
+    "ssh": "git@github.com:uttahb/todomarch.git"
+  }
+}
